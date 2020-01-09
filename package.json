@@ -1,0 +1,14 @@
+{
+  "name": "perfectpaws",
+  "version": "1.0.0",
+  "description": "website for perfect paws pet salon",
+  "main": "app.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
